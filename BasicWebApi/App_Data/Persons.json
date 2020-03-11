@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 0,
+    "FirstName": "Seed First",
+    "LastName": "Seed Last",
+    "EmailAddress": "seed@email.com",
+    "CellphoneNumber": "132-000-9800",
+    "FullName": "Seed First Seed Last"
+  },
+  {
+    "Id": 1,
+    "FirstName": "Seed First2",
+    "LastName": "Seed Last2",
+    "EmailAddress": "seed@email2.com",
+    "CellphoneNumber": "132-002-9800",
+    "FullName": "Seed First2 Seed Last2"
+  }
+]
